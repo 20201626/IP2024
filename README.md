@@ -11,3 +11,7 @@ https://github.com/user-attachments/assets/783aaf58-4059-43ee-ba24-43869e3e636b
 
 # Homework 3
 ![7bd18f49-182c-4741-a198-9ea95a54bf72](https://github.com/user-attachments/assets/7b4fbad4-1ae2-4ba6-b2ca-b7ab2d460ed0)
+
+
+# Homework 4
+![image](https://github.com/user-attachments/assets/edcb21cc-4b21-40ae-a9a6-7a47f6998eda)
